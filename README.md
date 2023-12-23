@@ -1,3 +1,3 @@
 # innovative landing page
-This is a copy of a online cosmetic shop
+This is a copy of an online cosmetic shop
 using HTML & CSS
